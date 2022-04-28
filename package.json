@@ -44,15 +44,15 @@
   },
   "devDependencies": {
     "@babel/core": "^7.17.9",
-    "@storybook/addon-actions": "^6.4.22",
-    "@storybook/addon-essentials": "^6.4.22",
-    "@storybook/addon-interactions": "^6.4.22",
-    "@storybook/addon-links": "^6.4.22",
-    "@storybook/builder-webpack5": "^6.4.22",
-    "@storybook/manager-webpack5": "^6.4.22",
-    "@storybook/react": "^6.4.22",
+    "@storybook/addon-actions": "next",
+    "@storybook/addon-essentials": "next",
+    "@storybook/addon-interactions": "next",
+    "@storybook/addon-links": "next",
+    "@storybook/builder-webpack5": "next",
+    "@storybook/manager-webpack5": "next",
+    "@storybook/react": "next",
     "@storybook/testing-library": "^0.0.11",
     "babel-loader": "^8.2.5",
-    "webpack": "5"
+    "webpack": "^5.72.0"
   }
 }
