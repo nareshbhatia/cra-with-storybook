@@ -3,10 +3,11 @@
 This project was bootstrapped with
 [Create React App](https://github.com/facebook/create-react-app).
 
-## How was Storybook initialized
+## How Storybook was initialized
 
-Storybook was added using `sb init` without any options. This lets it detect CRA
-and add preset-create-react-app and webpack5 builder automatically:
+Storybook was added using `sb init` without any options. This lets `sb init`
+detect CRA and add preset-create-react-app and the webpack5 builder
+automatically:
 
 ```shell
 npx sb init
